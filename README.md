@@ -21,7 +21,7 @@ While working at Cigna, my seniors quickly recognised my meticulous approach to 
 
 While working on a large-scale proofreading project for the print company of Cigna, the project head asked me to teach my feedback and annotation format to the rest of the group, who commented that it made things easier for them and made more sense when they read their own notes back.
 
-I impressed my managers at Cigna with my letter-writing and note-taking skills, and as a result I had the opportunity to take minutes for our weekly meetings (which quickly became an email my team looked forward to reading every week), and also wrote letters to our 'VIP' clients when required.  I also became renowned for being able to explain policy clauses and complicated phrases in easy-to-understand terms.  I continue to improve my written communication skills by [BLOGGING] about my experience at Makers Academy.
+I impressed my managers at Cigna with my letter-writing and note-taking skills, and as a result I had the opportunity to take minutes for our weekly meetings (which quickly became an email my team looked forward to reading every week), and also wrote letters to our 'VIP' clients when required.  I also became renowned for being able to explain policy clauses and complicated phrases in easy-to-understand terms.  I continue to improve my written communication skills by [blogging](https://medium.com/@kye.bracey) about my experience at Makers Academy.
 
 #### Quick and Eager Learner
 
@@ -40,7 +40,13 @@ and resolve complaints.  Working in a heavily regulated financial services setti
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### University of Surrey (2011 - 2014)
+PROJECTS:
+
+| Name | Description | Technologies |
+| ---- | ----------- | ------------ |
+| Student Directory | An interactive command line application allowing the user to enter, display, save and load a list of students. | Ruby |
+
+#### University of Surrey (September 2011 - June 2014)
 
 - Music, specialising in composition and conducting
 - 2:1
@@ -48,7 +54,7 @@ and resolve complaints.  Working in a heavily regulated financial services setti
 - Frequently assisted with concert management
 - Also managed the university choir
 
-#### City College Plymouth (2009 - 2011)
+#### City College Plymouth (September 2009 - June 2011)
 
 - BTEC in Music
 - DDD
@@ -72,7 +78,7 @@ and resolve complaints.  Working in a heavily regulated financial services setti
 - **Puzzles, especially Rubik's cubes** - I have managed to solve cubes all the way up to 5x5,
 and have solved a 3x3 in less than 30 seconds.  I am currently working towards being able to perform a sub-20-seconds solve.
 
-- **Recording and editing video and audio** - My [YOUTUBE CHANNEL] features many gameplay-with-commentary and tutorial videos presented to a high standard.  
+- **Recording and editing video and audio** - My [YouTube channel](https://www.youtube.com/channel/UCra74TRV4yc5jnTjo-t91Rg) features many gameplay-with-commentary and tutorial videos presented to a high standard.  
 However, as this was a very time-consuming hobby I have halted uploads for now, but still record and edit the occasional clip to keep the skills up to scratch.
 
 - **Additional hobbies:**
