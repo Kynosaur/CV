@@ -50,7 +50,9 @@ and resolve complaints.  Working in a heavily regulated financial services setti
 
 | Name | Description | Technologies |
 | ---- | ----------- | ------------ |
-| Student Directory | An interactive command line application allowing the user to enter, display, save and load a list of students. | Ruby |
+| [RememberAll](https://github.com/jjadeseravla/RememberAll) | A mobile app which allows users to save contacts and information about them, add tags to contacts and search by any information they know about them.  Tapping on a contact's name will open their profile and generate a narrative about them using the saved information. | JavaScript, React Native, tested with Jest and Cavy |
+| [Acebook](https://github.com/Kynosaur/acebook) | A social networking app which gives users the ability to make posts, like and comment on posts and have a user profile with an image. | Ruby on Rails, tested with Rspec |
+| [Bowling Challenge](https://github.com/Kynosaur/bowling-challenge) | A bowling scorecard which allows the user to enter the amount they scored on each turn, and automatically calculates the score including bonuses. | JavaScript, JQuery, HTML, CSS, tested with Jasmine |
 
 #### University of Surrey (September 2011 - June 2014)
 
