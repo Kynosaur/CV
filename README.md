@@ -50,7 +50,7 @@ and resolve complaints.  Working in a heavily regulated financial services setti
 
 | Name | Description | Technologies |
 | ---- | ----------- | ------------ |
-| [RememberAll](https://github.com/jjadeseravla/RememberAll) | "How can I remember more about people I meet?" A mobile contacts app which automatically generates a narrative of a person based on information saved about them. | JavaScript, React Native, tested with Jest and Cavy |
+| [RememberAll](https://github.com/Kynosaur/RememberAll) | "How can I remember more about people I meet?" A mobile contacts app which automatically generates a narrative of a person based on information saved about them. | JavaScript, React Native, tested with Jest and Cavy |
 | [Acebook](https://github.com/Kynosaur/acebook) | A social networking app which gives users the ability to make posts, like and comment on posts and have a user profile with an image. | Ruby on Rails, tested with Rspec |
 | [Bowling Challenge](https://github.com/Kynosaur/bowling-challenge) | A bowling scorecard which allows the user to enter the amount they scored on each turn, and automatically calculates the score including bonuses. | JavaScript, JQuery, HTML, CSS, tested with Jasmine |
 
