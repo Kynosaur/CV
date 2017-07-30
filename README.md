@@ -43,8 +43,8 @@ and resolve complaints.  Working in a heavily regulated financial services setti
 - Focusing on OOP, TTD, SOLID, MVC and DDD
 - Requiring high levels of independent learning and problem-solving skills
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, JavaScript, Node.js, React, React Native
+- Rspec, Jasmine, Mocha, Jest
 
 #### Projects:
 
