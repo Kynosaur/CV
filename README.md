@@ -1,4 +1,4 @@
-[Skills](#skills) | [Education](#education) | [Projects](#projects) | [Experience](#experience) | [Interests and Hobbies](#interests-and-Hobbies)
+[Skills](#skills) | [Education](#education) | [Projects](#projects) | [Experience](#experience) | [Interests and Hobbies](#interests-and-hobbies)
 
 ## Kye Bracey
 
