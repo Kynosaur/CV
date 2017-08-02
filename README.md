@@ -2,7 +2,7 @@
 
 ## Kye Bracey
 
-Full stack web developer/software engineer, trained at Makers Academy.
+I am an enthusiastic and ambitious **Full Stack Junior Developer**, trained at Makers Academy.
 My two favourite questions are "How does it work?" and "Can I make it better?".
 Fun fact: While I was in primary school teachers (sometimes of classes 3+ years above mine) would send for me to help fix an issue with the class computer.
 
