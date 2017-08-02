@@ -51,8 +51,7 @@ I am happiest when either learning something new, or improving an existing skill
 | [RememberAll](https://github.com/Kynosaur/RememberAll) | "How can I remember more about people I meet?" A mobile contacts app which automatically generates a narrative of a person based on information saved about them. | JavaScript, React Native, tested with Jest and Cavy |
 | [Acebook](https://github.com/Kynosaur/acebook) | A social networking app which gives users the ability to make posts, like and comment on posts and have a user profile with an image. | Ruby on Rails, tested with Rspec |
 | [Bowling Challenge](https://github.com/Kynosaur/bowling-challenge) | A bowling scorecard which allows the user to enter the amount they scored on each turn, and automatically calculates the score including bonuses. | JavaScript, JQuery, HTML, CSS, tested with Jasmine |
-| Meeto ([client](https://github.com/Kynosaur/meeto-client)/[API](https://github.com/Kynosaur/meeto)) | An app to help people group together to make journeys cheaper and safer | Client: JavaScript, React, tested with Jest and Enzyme
-API: Ruby, Sinatra, tested with RSpec |
+| Meeto ([client](https://github.com/Kynosaur/meeto-client)/[API](https://github.com/Kynosaur/meeto)) | An app to help people group together to make journeys cheaper and safer | Client: JavaScript, React, tested with Jest and Enzyme -- API: Ruby, Sinatra, tested with RSpec |
 
 #### University of Surrey (September 2011 - June 2014)
 
